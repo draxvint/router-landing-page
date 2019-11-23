@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-cache/
+=======
+_site
+.sass-cache
+>>>>>>> initial jekyll commit
 .jekyll-metadata
